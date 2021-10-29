@@ -5,8 +5,7 @@ Join my Discord laboratory for updates, support, and special early testing!
 <br>
 https://discord.gg/HH6uTcBfew
 
-Dependency For QB-Core
+Modified version of progressbar bringing the most accurate NoPixel 3.0 style possible
 
-Small css edit for NP 3.0 styled progress bar.
-
-![progressbar](https://user-images.githubusercontent.com/91661118/135710822-004a421a-38fd-414d-ac17-8e9aa8241e29.png)
+### progesssbar level
+![progesssbar level](https://user-images.githubusercontent.com/91661118/139389962-80c07782-4cd3-4dfb-a824-c1bfeaddd7e1.png)
