@@ -3,7 +3,7 @@
 # progressbar
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://discord.gg/HH6uTcBfew
+https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
 
 Modified version of progressbar bringing the most accurate NoPixel 3.0 style possible
 
